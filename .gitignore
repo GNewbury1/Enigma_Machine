@@ -1,0 +1,6 @@
+*.csproj
+*.sln
+*.cs
+Properties
+/*.config
+.vs/
