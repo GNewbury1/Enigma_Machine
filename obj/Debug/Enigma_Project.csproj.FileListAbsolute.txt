@@ -1,0 +1,9 @@
+C:\Users\guyn\GitRepos\Enigma_Machine\bin\Debug\Enigma_Project.exe.config
+C:\Users\guyn\GitRepos\Enigma_Machine\bin\Debug\Enigma_Project.exe
+C:\Users\guyn\GitRepos\Enigma_Machine\bin\Debug\Enigma_Project.pdb
+C:\Users\guyn\GitRepos\Enigma_Machine\obj\Debug\Enigma_Project.Properties.Resources.resources
+C:\Users\guyn\GitRepos\Enigma_Machine\obj\Debug\Enigma_Project.csproj.GenerateResource.Cache
+C:\Users\guyn\GitRepos\Enigma_Machine\obj\Debug\Enigma_Project.csproj.CoreCompileInputs.cache
+C:\Users\guyn\GitRepos\Enigma_Machine\obj\Debug\Enigma_Project.exe
+C:\Users\guyn\GitRepos\Enigma_Machine\obj\Debug\Enigma_Project.pdb
+C:\Users\guyn\GitRepos\Enigma_Machine\obj\Debug\Enigma_Project.csprojResolveAssemblyReference.cache
